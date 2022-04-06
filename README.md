@@ -14,7 +14,7 @@
   </li>
 </ul>
 
-<h3 align="center">🛠  Technologies and tools I'm currently using</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="40px">  Technologies and tools I'm currently using</h3>
 <div align="center">
 <a href="https://angular.io/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/angular.svg' width='50' alt="Angular"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/html.svg' width='50' alt="HTML"/></a>
@@ -41,7 +41,7 @@
 <a href="https://getfedora.org/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/linux.svg' width='50' alt="Linux"/></a>
 </div>
 
-<h3 align="center">🌱 ... and those I'm currently learning</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/dAoHbGjH7k5ZTeQeBI/giphy.gif" width="40px"> ... and those I'm currently learning</h3>
 <div align="center">
 <a href="https://go.dev/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/golang.svg' width='50' alt="GoLang"/></a>
 <a href="https://www.docker.com/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/docker.svg' width='50' alt="Docker"/></a>
@@ -60,8 +60,8 @@
 
 
 <h4>📫 You can find or contact me here:</h4>
-<a href="mailto:contactMe@jan-friedrich.de"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/gmail.svg' width='60' alt="GMail"/></a>
-<a href="https://t.me/jntlemn"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/telegram.svg' width='60' alt="Telegram"/></a>
-<a href="https://open.spotify.com/user/21tcc25axtfgbjpf4pwrigw6y"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/spotify.svg' width='60' alt="Spotify"/></a>
-<a href="https://twitter.com/Jantlemn"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/twitter.svg' width='60' alt="Twitter"/></a>
+<a href="mailto:contactMe@jan-friedrich.de"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/gmail.svg' width='40' alt="GMail"/></a>
+<a href="https://t.me/jntlemn"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/telegram.svg' width='40' alt="Telegram"/></a>
+<a href="https://open.spotify.com/user/21tcc25axtfgbjpf4pwrigw6y"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/spotify.svg' width='40' alt="Spotify"/></a>
+<a href="https://twitter.com/Jantlemn"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/twitter.svg' width='40' alt="Twitter"/></a>
 
