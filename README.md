@@ -1,4 +1,4 @@
-<h1 align="center">Hey, my name is <a href="https://jan-friedrich.de">Jan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hey, my name is <a href="http://jan-friedrich.de">Jan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h2>Some facts about me</h2>
 <ul>
   <li>🏠 I'm living in <b>Germany</b></li>
