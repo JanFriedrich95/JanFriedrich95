@@ -1,4 +1,4 @@
-<h1 align="center">Hey, my name is <a href="http://jan-friedrich.de">Jan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hey, my name is <a href="http://jan-friedrich.de">Jan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
 <h2>Some facts about me</h2>
 <ul>
   <li>🏠 I'm living in <b>Germany</b></li>
@@ -14,7 +14,7 @@
   </li>
 </ul>
 
-<h3 align="center"><img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="40px">  Technologies and tools I'm currently using</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="40px" height="40px">  Technologies and tools I'm currently using</h3>
 <div align="center">
 <a href="https://angular.io/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/angular.svg' width='50' alt="Angular"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/html.svg' width='50' alt="HTML"/></a>
@@ -41,7 +41,7 @@
 <a href="https://getfedora.org/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/linux.svg' width='50' alt="Linux"/></a>
 </div>
 
-<h3 align="center"><img src="https://media.giphy.com/media/dAoHbGjH7k5ZTeQeBI/giphy.gif" width="40px"> ... and those I'm currently learning</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/dAoHbGjH7k5ZTeQeBI/giphy.gif" width="40px" height="40px"> ... and those I'm currently learning</h3>
 <div align="center">
 <a href="https://go.dev/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/golang.svg' width='50' alt="GoLang"/></a>
 <a href="https://www.docker.com/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/docker.svg' width='50' alt="Docker"/></a>
