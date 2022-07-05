@@ -28,6 +28,7 @@
 <a href="https://www.typescriptlang.org/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/typescript.svg' width='50' alt="TypeScript"/></a>
 <a href="https://nodejs.org/en/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/nodejs.svg' width='50' alt="NodeJS"/></a>
 <a href="https://expressjs.com/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/expressjs.svg' width='50' alt="ExpressJS"/></a>
+<a href="https://rxjs.dev/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/rxjs.svg' width='50' alt="RxJS"/></a>
 <a href="https://swagger.io/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/swagger.svg' width='50' alt="Swagger"/></a>
 <a href="https://feathersjs.com/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/feathers.svg' width='50' alt="FeathersJS"/></a>
 </div>
