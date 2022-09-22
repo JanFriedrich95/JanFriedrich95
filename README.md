@@ -48,6 +48,8 @@
 <a href="https://www.python.org/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/python.svg' width='50' alt="Python"/></a>
 <a href="https://flask.palletsprojects.com/en/2.1.x/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/flask.svg' width='50' alt="Flask"/></a>
 <a href="https://firebase.google.com/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/firebase.svg' width='50' alt="Firebase"/></a>
+<a href="https://flutter.dev/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/flutter.svg' width='50' alt="Flutter"/></a>
+<a href="https://dart.dev/"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/dart.svg' width='50' alt="Dart"/></a>
 
 </div>
 
