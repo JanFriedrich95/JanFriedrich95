@@ -2,7 +2,6 @@
 <h2>Some facts about me</h2>
 <ul>
   <li>🏠 I'm living in <b>Germany</b></li>
-  <li>🔭 I'm currently working as <b>Web-Developer</b> for <a href="http://deltastone.de">deltastone GmbH</a> in Mainz, Germany</li>
   <li>☕️ I'm a <b>Coffee-addict</b></li>
   <li>🐈 just <b>Cats</b> </li>
   <li> I also love:
