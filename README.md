@@ -61,8 +61,3 @@
 <p><a href="https://www.pcgamingrace.com/products/glorious-gmmk-pro-75-barebone-black"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/gmmk.svg' width='20' alt="Glorious PC Gaming Race"/></a> Permanently optimizing my GMMK-Pro
 <p><a href="https://de.ifixit.com/Device/MacBook_Pro_13%22_Unibody_Mid_2012"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/apple.svg' width='20' alt="MacBook Pro"/></a> Maintaining my 10+ Year Old MacBook Pro
 
-<h4>📫 You can find or contact me here:</h4>
-<a href="mailto:contactMe@jan-friedrich.de"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/gmail.svg' width='40' alt="GMail"/></a>
-<a href="https://t.me/jntlemn"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/telegram.svg' width='40' alt="Telegram"/></a>
-<a href="https://open.spotify.com/user/21tcc25axtfgbjpf4pwrigw6y"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/spotify.svg' width='40' alt="Spotify"/></a>
-<a href="https://twitter.com/Jantlemn"><img src = 'https://github.com/JanFriedrich95/JanFriedrich95/blob/main/images/twitter.svg' width='40' alt="Twitter"/></a>
